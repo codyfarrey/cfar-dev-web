@@ -1,0 +1,5 @@
+Let it be known that AI failed me in this adventure. nginx.org documentation is flakey about how configuration actually works, so ChatGPT wasn't able to hold my hand through this one — a good example as to why you should ==always read the documentation first==, thoroughly, before trying to jump into a project. I spent wayyyyyy too long trying to figure out why this wasn't working in the browser. (SSL verification crap.)
+
+This is a programmer's playground. Right now it's just *my* playground, but it could be useful to you as well! First things first: type `curl cfar.dev` in your local terminal... it's your IP! Now you don't have to go to whatismyip.com or whatever the most popular website is and be fed annoying ads just to get an idea of what network you are communicating from. Enjoy!
+
+P.S: This is also a nice way to check that you are actually routing through a VPN. If you aren't already paying for a VPN, you should be. if you use this link it will make my NordVPN subscription cheaper as well as give you a free 3-months: [NordVPN](https://refer-nordvpn.com/cGgTVoDHUap).
