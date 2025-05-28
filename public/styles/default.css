@@ -1,16 +1,17 @@
 body {
     margin: 0;
-    background-color: #121212;
+    background-color: #1e1e1e;
     color: #e0e0e0;
     font-family: sans-serif;
 }
 
 .navbar-wrapper {
-    background-color: #1e1e1e;
+    background-color: #121212;
+    max-width: 60rem;
+    margin: auto;
 }
 
 .navbar {
-    max-width: 55rem;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -21,11 +22,11 @@ body {
 .logo {
     font-size: 0.95rem;
     font-weight: bold;
-    color: #ccc;
+    color: #848484;
 }
 
 .search-bar input {
-    background-color: #2b2b2b;
+    background-color: #242424;
     border: none;
     padding: 0.3rem 0.6rem;
     border-radius: 4px;
@@ -47,7 +48,8 @@ body {
 }
 
 .main {
-    background-color: #2b2b2b;
+    background-color: #121212;
+    margin-top: 1px;
     padding: 1rem;
     height: 100vh;
     flex: 3;
@@ -60,7 +62,7 @@ body {
     border-radius: 6px;
     font-size: 0.9rem;
     line-height: 1.4;
-    color: #ccc;
+    color: #848484;
 }
 
 .sidebar h3 {
@@ -96,7 +98,7 @@ body {
 .post p {
     margin: 0;
     font-size: 0.9rem;
-    color: #ccc;
+    color: #848484;
     line-height: 1.5;
 }
 
@@ -108,4 +110,13 @@ body {
     .sidebar {
         margin-top: 1rem;
     }
+}
+
+footer {
+    margin: auto;
+    max-width: 60rem;
+    margin-top: 1px;
+    color: #848484;
+    text-align: center;
+    background-color: #121212;
 }
