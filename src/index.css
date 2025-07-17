@@ -1,7 +1,7 @@
 body {
   min-height: 100vh;
   font-family: "Inter", "Lucida Console", "Courier New", monospace;
-  background-color: rgba(0, 0, 0);
+  background: radial-gradient(#080808, #000000);
   color: #EAEAE3;
   margin: 0;
 }
