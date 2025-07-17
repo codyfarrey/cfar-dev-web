@@ -8,11 +8,11 @@ nav {
 }
 
 .nav-logo {
-    font-size: 18px;
+  font-size: 18px;
 }
 
 .nav-left {
-    padding: 0 1rem;
+  padding: 0 1rem;
 }
 
 .nav-middle {
@@ -34,10 +34,10 @@ nav img {
 }
 
 .nav-right {
-    padding: 0 1rem;
+  padding: 0 1rem;
 }
 
 .nav-right img {
-    width: 32px;
-    height: 32px;
+  width: 32px;
+  height: 32px;
 }

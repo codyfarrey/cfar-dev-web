@@ -1,4 +1,5 @@
 body {
+  min-height: 100vh;
   font-family: "Inter", "Lucida Console", "Courier New", monospace;
   background-color: rgba(0, 0, 0);
   color: #EAEAE3;
@@ -6,15 +7,15 @@ body {
 }
 
 h1 {
-  font-size: 22px;
+  font-size: 28px;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 22px;
 }
 
 small {
