@@ -1,4 +1,5 @@
 body {
+  font-family: "Inter", "Lucida Console", "Courier New", monospace;
   background-color: rgba(0, 0, 0);
   color: #EAEAE3;
   margin: 0;
@@ -14,4 +15,8 @@ h2 {
 
 h3 {
   font-size: 18px;
+}
+
+small {
+  color: #b4b4b4
 }

@@ -1,0 +1,16 @@
+.blog-section {
+  background-color: #12171C;
+  width: 100%;
+  margin: 1rem 0;
+  border-radius: 15px;
+}
+
+.blog-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.blog-card h1 {
+    margin: auto;
+}
