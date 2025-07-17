@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "title": "Home Automation",
+            "date": "May 20th, 2025",
+            "content": "I’ve recently taken a dive down the Home Automation rabbit hole after buying my first house last fall. I highly recommend Wyze products for home automation as their hardware and software seems extremely reliable as of now. I specifically like the Wyze Indoor/Outdoor Smart-Plug. It let’s me control the power of my outdoor lights through the Wyze mobile app. I have only just begun digging so I will report back when I learn more."
+        },
+        {
+            "title": "Arch Linux",
+            "date": "May 2nd, 2025",
+            "content": "Arch Linux is a really great way for developers, engineers, and quite honestly anyone, to learn Linux and to become more proficient at using the command line. Arch is also extremely customization so you can have your operating system look and feel exactly how you want it. The support for Linux in 2025 is far better than it was 10 years ago so if you’ve been hesitant to switch, now is the time to do so. Stay curious everyone!"
+        },
+        {
+            "title": "Welcome!",
+            "date": "March 12th, 2025",
+            "content": "Welcome to <cfar.dev/>! The page you are visiting right now is just my journal/blog. I post things here when I feel like it is something that is worth permanently documenting on the internet. No politics, no religion, only software, hardware, and finance related topics with a few life hacks here and there. I’ve also configured the web server so that if you do a raw curl (no arguments) to cfar.dev, you should get your IP address as a response. I use this regularly to check if I am actually connected to the internet through my VPN. I am also in the process of developing a few additional pages that could be useful if you are the type of person who likes to buy and sell stocks on the U.S. Stock Market or track your personal finances. I will post an update here and add a proper navigation bar when additional pages go live. Stay tuned!"
+        }
+    ]
+}
