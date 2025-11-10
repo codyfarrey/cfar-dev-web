@@ -1,0 +1,12 @@
+.ticker-card {
+    background-color: rgba(18, 23, 28, 0.85);
+    width: 256px;
+    margin: 2rem 1rem;
+    padding: 0 1rem;
+    border-radius: 20px;
+}
+
+.ticker-card-top {
+    display: flex;
+    justify-content: space-between;
+}
