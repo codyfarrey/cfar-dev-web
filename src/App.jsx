@@ -20,6 +20,9 @@ function App() {
 
     setToken(token);
 
+    document.cookie = `token=${token}; path=/`;
+
+
     return (
       window.location = '/home'
     );

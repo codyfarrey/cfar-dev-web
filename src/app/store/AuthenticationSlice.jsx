@@ -3,11 +3,11 @@ import { createSlice, configureStore } from '@reduxjs/toolkit';
 export const authenticationSlice = createSlice({
     name: 'authentication',
     initialState: {
-        value: ''
+        isAUthenticated: false
     },
     reducers: {
-        setToken: (state, action) => {
-            state.value = action.payload
+        setAuthenticated: (state, action) => {
+            state.isAUthenticated = true;
         }
     }
 })

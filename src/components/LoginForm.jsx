@@ -20,6 +20,7 @@ export default function LoginForm() {
             const authHeader = response.headers['Authorization'];
 
             console.log(response.data);
+            document.cookie = `token=${authHeader}...; path=/`;
             history('/market');
         } else {
             setError('Email and password is required.');
